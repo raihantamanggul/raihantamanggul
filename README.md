@@ -1,7 +1,5 @@
 ![Raihan Tamanggul](img/banner.png)
 
-### 
-
 ##### My skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,laravel,php,tailwind,ps&theme=light)](https://skillicons.dev)
 
